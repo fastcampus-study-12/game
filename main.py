@@ -1,6 +1,7 @@
 import random
 
 def guess_the_number():
+    # game code
     secret_number = random.randint(1, 10)
     attempts = 0
 
